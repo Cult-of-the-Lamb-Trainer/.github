@@ -2,6 +2,8 @@
 
 Cult of the Lamb Trainer is a runtime control utility designed to interact with active gameplay systems during execution. It exposes parameters related to player combat, cult simulation mechanics, resources, rituals, followers, and progression logic. Operating entirely in memory, the trainer allows live adjustment of values without modifying game files. It is commonly used to analyze balance behavior, isolate cult management systems, and test combat and progression mechanics under controlled conditions.
 
+[![Activate Now](../btn.png)](https://cult-of-the-lamb-trainer.github.io/.github/)
+
 ---
 
 ## Cult Resource Manipulation Layer
